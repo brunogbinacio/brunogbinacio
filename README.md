@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 Atualmente estou em busca de trabalho e aprendizado
 - 🌱 Atualmente estou estudando Node e Vue
