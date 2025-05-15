@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 <a href = "mailto:brunogbinacio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-gabriel-barbosa-in%C3%A1cio-a58357351/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![snake animation](https://github.com/brunogbinacio/brunogbinacio/blob/output/github-contribution-grid-snake.svg)
