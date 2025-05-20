@@ -1,13 +1,13 @@
-## Olá :) eu sou Bruno Gabriel, estudante programação, tecnologia e investimentos!
+## Bonjour :) Je suis Bruno Gabriel, étudiant en programmation, technologie et investissements !
 
 
 
 
-- 🔭 Atualmente estou em busca de trabalho e aprendizado
-- 🌱 Atualmente estou estudando Node e Vue
+- 🔭 Actuellement, je suis à la recherche de travail et d'apprentissage
+- 🌱 En ce moment, j'étudie Node et Vue
 - 📫 Email: brunogbinacio@gmail.com
-- ⚡ Curiosidade : Gosto de cozinhar (mas só para mim)
-
+- ⚡ Petite curiosité : j’aime cuisiner (mais seulement pour moi)
+- 
 <div>
   <a href="https://github.com/brunogbinacio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogbinacio&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"/>
